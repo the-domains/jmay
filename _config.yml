@@ -1,7 +1,7 @@
 name: jmay
 favicon: null
 layout_spectrum: 0.42237
-typography_spectrum: 0.37399
+typography_spectrum: 0.20868
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000c01'
-    - '#beb8b8'
-    - '#005615'
-    - '#ecede8'
-    - '#35a230'
-  brandStrength: 0.875
+    - '#1e363b'
+    - '#fefaf9'
+    - '#bcc0c8'
+    - '#959daf'
+    - '#826557'
+  brandStrength: 0.6875
   lightness: 0.3125
-  saturation: 0.875
-  rhythmicContrast: 1
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
