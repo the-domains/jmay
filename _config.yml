@@ -1,7 +1,7 @@
 name: jmay
 favicon: null
-layout_spectrum: 0.62201186735183
-typography_spectrum: 0.021737309405580163
+layout_spectrum: 1
+typography_spectrum: 0.37399
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#bcc0c8'
     - '#959daf'
     - '#826557'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.125
-  rhythmicContrast: 0.337986595928669
+  brandStrength: 0.6875
+  lightness: 0.3125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
