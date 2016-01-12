@@ -4,7 +4,7 @@
         <description><![CDATA[jmay]]></description>
         <link>https://thegrid.ai/jmay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 17:26:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 17:28:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jmay/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/jmay/dogs-never-bite-me-just-humans/index.html</link>
             <guid isPermaLink="false">0f420d95-0848-455d-a4ec-8596af900eb6</guid>
             <pubDate>Tue, 12 Jan 2016 17:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dogs never bite me. Just humans.]]></title>
-            <description><![CDATA[<article><h1>Dogs never bite me. Just humans.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9abd559-fa5a-41ce-8f8c-0c0e3b67d0e8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jmay/691907ee-9c59-46c6-94bc-a98567642408/index.html</link>
-            <guid isPermaLink="false">691907ee-9c59-46c6-94bc-a98567642408</guid>
-            <pubDate>Tue, 12 Jan 2016 17:26:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
